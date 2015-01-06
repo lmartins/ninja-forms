@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ninja-forms\n"
 "POT-Creation-Date: 2014-11-15 15:03-0500\n"
-"PO-Revision-Date: 2015-01-06 19:26-0000\n"
+"PO-Revision-Date: 2015-01-06 23:20-0000\n"
 "Last-Translator: Luis Martins <luis.martins@multiweb.pt>\n"
 "Language-Team: Luís Martins <kimipt@gmail.com>\n"
 "MIME-Version: 1.0\n"
@@ -564,10 +564,9 @@ msgid "Display Title"
 msgstr "Título de exibição"
 
 #: includes/widget.php:96 includes/admin/post-metabox.php:39
-#: includes/admin/edit-field/desc.php:41
-#: includes/admin/edit-field/user-info-fields.php:27 includes/fields/hidden.php:52
-#: includes/fields/number.php:72 includes/fields/textbox.php:139
-#: includes/fields/textbox.php:180
+#: includes/admin/edit-field/desc.php:41 includes/admin/edit-field/user-info-fields.php:27
+#: includes/fields/hidden.php:52 includes/fields/number.php:72
+#: includes/fields/textbox.php:139 includes/fields/textbox.php:180
 msgid "None"
 msgstr "Nenhum"
 
@@ -675,8 +674,8 @@ msgstr "﻿Ninja Form em Processamento"
 #: includes/admin/step-processing.php:110 includes/admin/upgrades/upgrades.php:39
 #: includes/admin/upgrades/upgrades.php:53
 msgid ""
-"The process has started, please be patient. This could take several minutes. You will "
-"be automatically redirected when the process is finished."
+"The process has started, please be patient. This could take several minutes. You will be "
+"automatically redirected when the process is finished."
 msgstr ""
 "﻿O processo foi iniciado e poderá demorar alguns minutos, por favor aguarde. Será "
 "automaticamente redirecionado assim que o processo for concluído."
@@ -786,8 +785,8 @@ msgstr "Duplicar notificações"
 msgid ""
 "Duplicate notifications and change settings to quickly create similar notifications."
 msgstr ""
-"Duplicar notificações e alterar as definições para criar notificações similares de "
-"forma rápida."
+"Duplicar notificações e alterar as definições para criar notificações similares de forma "
+"rápida."
 
 #: includes/admin/welcome.php:234
 msgid "More to come"
@@ -801,9 +800,9 @@ msgid ""
 "notifications even more powerful."
 msgstr ""
 "﻿Esta atualização é apenas o começo; o futuro irá trazer ainda mais melhorias para o "
-"sistema de notificações. Temos planos para adicionar notificações \"globais\"  que "
-"podem ser usadas em múltiplos formulários. Estamos também a procurar formas de tornar "
-"as notificações ainda mais poderosas através de extensões Ninja Forms."
+"sistema de notificações. Temos planos para adicionar notificações \"globais\"  que podem "
+"ser usadas em múltiplos formulários. Estamos também a procurar formas de tornar as "
+"notificações ainda mais poderosas através de extensões Ninja Forms."
 
 #: includes/admin/welcome.php:239
 msgid "Notification documentation"
@@ -866,9 +865,9 @@ msgid ""
 "or create your own, simply click Add New and start with your Forms Settings."
 msgstr ""
 "O menu de Formulários é o seu acesso central a todos os aspectos relacionados com a "
-"configuração Ninja Forms. Já criamos o seu primeiro formulário para que o possa "
-"utilizar como exemplo ou criar o seu próprio. Clique em Adicionar Novo e comece a criar "
-"um novo formulário."
+"configuração Ninja Forms. Já criamos o seu primeiro formulário para que o possa utilizar "
+"como exemplo ou criar o seu próprio. Clique em Adicionar Novo e comece a criar um novo "
+"formulário."
 
 #: includes/admin/welcome.php:320
 #: includes/admin/pages/ninja-forms/tabs/form-settings/form-settings.php:7
@@ -912,8 +911,8 @@ msgstr "Acrescentar a Página"
 #: includes/admin/welcome.php:339
 msgid ""
 "Under Basic Form Behavior in the Form Settings you can easily select a page that you "
-"would like the form automatically appended to the end of that page's content. A "
-"similiar option is avaiable in every content edit screen in it's sidebar."
+"would like the form automatically appended to the end of that page's content. A similiar "
+"option is avaiable in every content edit screen in it's sidebar."
 msgstr ""
 "Abaixo de Comportamento Básico de Formulário nas Definições de Formulário, poderá "
 "escolher uma página para adicionar o formulário automaticamente. Opção similar estará "
@@ -931,13 +930,13 @@ msgid ""
 "your form anywhere you like. Even in the middle of your page or posts content."
 msgstr ""
 "Adicione [ninja_forms_display_form id=1] em qualquer área que aceite shortcodes para "
-"apresentar este formulário em qualquer lugar, mesmo no meio do conteúdo das suas "
-"páginas ou posts."
+"apresentar este formulário em qualquer lugar, mesmo no meio do conteúdo das suas páginas "
+"ou posts."
 
 #: includes/admin/welcome.php:353
 msgid ""
-"Ninja Forms provides a widget that you can place in any widgetized area of your site "
-"and select exactly which form you would like displayed in tat space."
+"Ninja Forms provides a widget that you can place in any widgetized area of your site and "
+"select exactly which form you would like displayed in tat space."
 msgstr ""
 "O Ninja Forms inclui um widget que poderá adicionar a qualquer área de widgets para "
 "maior flexibilidade na utilização dos seus formulários."
@@ -984,8 +983,8 @@ msgstr "Melhor suporte nesta actividade"
 #: includes/admin/welcome.php:379
 #, php-format
 msgid ""
-"We do our very best to provide every Ninja Forms user with the best support possible. "
-"If you encounter a problem or have a question, <a href=\"%s\">please contact us</a>."
+"We do our very best to provide every Ninja Forms user with the best support possible. If "
+"you encounter a problem or have a question, <a href=\"%s\">please contact us</a>."
 msgstr ""
 "Damos o nosso melhor para oferecer a todos os utilizadores Ninja Forms o melhor suporte "
 "possível. Se encontrar um problema ou tiver qualquer questão, <a href=\"%s\">não hesite "
@@ -1104,11 +1103,11 @@ msgstr "Texto de Ajuda"
 
 #: includes/admin/edit-field/input-limit.php:40
 msgid ""
-"If you want to limit the number of characters or words that your user can input, set "
-"the number and type of limit you want to enforce below."
+"If you want to limit the number of characters or words that your user can input, set the "
+"number and type of limit you want to enforce below."
 msgstr ""
-"Se quiser limitar o número de caracteres ou palavras que o utilizador poderá "
-"introduzir, defina esse número e tipo de limite que deseja adicionar abaixo."
+"Se quiser limitar o número de caracteres ou palavras que o utilizador poderá introduzir, "
+"defina esse número e tipo de limite que deseja adicionar abaixo."
 
 #: includes/admin/edit-field/input-limit.php:42
 msgid "If you leave the box empty, no limit will be used"
@@ -1218,173 +1217,177 @@ msgstr "Esta é a legenda usada ao visualizar/editar/exportar submissões."
 
 #: includes/admin/edit-field/sub-settings.php:34
 msgid "Sort as numeric"
-msgstr ""
+msgstr "Ordenar como numérico"
 
 #: includes/admin/edit-field/sub-settings.php:34
 msgid "If this box is checked, this column in the submissions table will sort by number."
 msgstr ""
+"Se esta opção estiver activa, esta coluna na tabela de submissões irá ordernar por número"
 
 #: includes/admin/edit-field/user-info-fields.php:28
 msgid "Billing"
-msgstr ""
+msgstr "Facturação"
 
 #: includes/admin/edit-field/user-info-fields.php:29
 msgid "Shipping"
-msgstr ""
+msgstr "Expedição"
 
 #: includes/admin/edit-field/user-info-fields.php:30 includes/fields/hidden.php:61
 #: includes/fields/number.php:75 includes/fields/textbox.php:149
 #: includes/fields/textbox.php:184
 msgid "Custom"
-msgstr ""
+msgstr "Personalizado"
 
 #: includes/admin/edit-field/user-info-fields.php:51
 msgid "User Info Field Group"
-msgstr ""
+msgstr "Grupo de Campos Informação de Utilização"
 
 #: includes/admin/edit-field/user-info-fields.php:52
 msgid "Custom Field Group"
-msgstr ""
+msgstr "Grupo de Campos Customizado"
 
 #: includes/admin/pages/system-status-html.php:3
 msgid "Please include this information when requesting support:"
-msgstr ""
+msgstr "﻿Por favor inclua esta informação ao solicitar suporte:"
 
 #: includes/admin/pages/system-status-html.php:4
 msgid "Get System Report"
-msgstr ""
+msgstr "Obter Relatório de Sistema"
 
 #: includes/admin/pages/system-status-html.php:12
 msgid "Environment"
-msgstr ""
+msgstr "﻿Ambiente"
 
 #: includes/admin/pages/system-status-html.php:17
 msgid "Home URL"
-msgstr ""
+msgstr "Endereço da Home"
 
 #: includes/admin/pages/system-status-html.php:21
 msgid "Site URL"
-msgstr ""
+msgstr "Endereço do Site"
 
 #: includes/admin/pages/system-status-html.php:25
 msgid "Ninja Forms Version"
-msgstr ""
+msgstr "Versão do Ninja Forms"
 
 #: includes/admin/pages/system-status-html.php:29
 msgid "WP Version"
-msgstr ""
+msgstr "Versão WP"
 
 #: includes/admin/pages/system-status-html.php:33
 msgid "WP Multisite Enabled"
-msgstr ""
+msgstr "WP Multisite activo"
 
 #: includes/admin/pages/system-status-html.php:37
 msgid "Web Server Info"
-msgstr ""
+msgstr "﻿Informação de servidor Web"
 
 #: includes/admin/pages/system-status-html.php:41
 msgid "PHP Version"
-msgstr ""
+msgstr "Versão PHP"
 
 #: includes/admin/pages/system-status-html.php:45
 msgid "MySQL Version"
-msgstr ""
+msgstr "Versão MySQL"
 
 #: includes/admin/pages/system-status-html.php:55
 msgid "PHP Locale"
-msgstr ""
+msgstr "PHP Locale"
 
 #: includes/admin/pages/system-status-html.php:64
 msgid "WP Memory Limit"
-msgstr ""
+msgstr "﻿Limite de memória do WP"
 
 #: includes/admin/pages/system-status-html.php:72
 msgid "WP Debug Mode"
-msgstr ""
+msgstr "﻿Modo de depuração do WP"
 
 #: includes/admin/pages/system-status-html.php:76
 msgid "WP Language"
-msgstr ""
+msgstr "﻿Língua WP"
 
 #: includes/admin/pages/system-status-html.php:77
 msgid "Default"
-msgstr ""
+msgstr "﻿Por defeito"
 
 #: includes/admin/pages/system-status-html.php:80
 msgid "WP Max Upload Size"
-msgstr ""
+msgstr "Tamanho de Upload Máximo WP"
 
 #: includes/admin/pages/system-status-html.php:85
 msgid "PHP Post Max Size"
-msgstr ""
+msgstr "Limite Máx. de Post PHP"
 
 #: includes/admin/pages/system-status-html.php:89
 msgid "Max Input Nesting Level"
-msgstr ""
+msgstr "Nível máximo de encadeamento de campos"
 
 #: includes/admin/pages/system-status-html.php:93
 msgid "PHP Time Limit"
-msgstr ""
+msgstr "﻿Limite de tempo do PHP"
 
 #: includes/admin/pages/system-status-html.php:97
 msgid "PHP Max Input Vars"
-msgstr ""
+msgstr "﻿PHP Input Max Vars"
 
 #: includes/admin/pages/system-status-html.php:101
 msgid "SUHOSIN Installed"
-msgstr ""
+msgstr "﻿SUHOSIN Instalado"
 
 #: includes/admin/pages/system-status-html.php:105
 msgid "SMTP"
-msgstr ""
+msgstr "SMTP"
 
 #: includes/admin/pages/system-status-html.php:109
 msgid "smtp_port"
-msgstr ""
+msgstr "﻿smtp_port"
 
 #: includes/admin/pages/system-status-html.php:114
 msgid "Default Timezone"
-msgstr ""
+msgstr "﻿Fuso horário padrão"
 
 #: includes/admin/pages/system-status-html.php:118
 #, php-format
 msgid "Default timezone is %s - it should be UTC"
-msgstr ""
+msgstr "﻿Fuso horário padrão é %s - deve ser UTC"
 
 #: includes/admin/pages/system-status-html.php:120
 #, php-format
 msgid "Default timezone is %s"
-msgstr ""
+msgstr "﻿Fuso horário padrão é %s"
 
 #: includes/admin/pages/system-status-html.php:128
 msgid "fsockopen/cURL"
-msgstr ""
+msgstr "﻿fsockopen/cURL"
 
 #: includes/admin/pages/system-status-html.php:131
 msgid "Your server has fsockopen and cURL enabled."
-msgstr ""
+msgstr "O seu servidor possui fsockopen e cURL activos."
 
 #: includes/admin/pages/system-status-html.php:133
 msgid "Your server has fsockopen enabled, cURL is disabled."
-msgstr ""
+msgstr "O seu servidor possui fsockopen activo e cURL inactivo."
 
 #: includes/admin/pages/system-status-html.php:135
 msgid "Your server has cURL enabled, fsockopen is disabled."
-msgstr ""
+msgstr "O seu servidor possui cURL activo, fsockopen inactivo."
 
 #: includes/admin/pages/system-status-html.php:139
 msgid ""
-"Your server does not have fsockopen or cURL enabled - PayPal IPN and other scripts "
-"which communicate with other servers will not work. Contact your hosting provider."
+"Your server does not have fsockopen or cURL enabled - PayPal IPN and other scripts which "
+"communicate with other servers will not work. Contact your hosting provider."
 msgstr ""
+"O seu servidor não possui fsockopen ou cURL habilitados - Serviços como PayPal IPN e "
+"outros scripts que precisam de  comunicar com outros servidores não irão funcionar. Para "
+"resolução contacte o seu fornecedor de alojamento."
 
 #: includes/admin/pages/system-status-html.php:144
 msgid "SOAP Client"
-msgstr ""
+msgstr "Cliente SOAP"
 
 #: includes/admin/pages/system-status-html.php:146
 msgid "Your server has the SOAP Client class enabled."
-msgstr ""
+msgstr "﻿Seu servidor possui o Client SOAP activo."
 
 #: includes/admin/pages/system-status-html.php:149
 #, php-format
@@ -1442,8 +1445,8 @@ msgstr ""
 
 #: includes/admin/pages/ninja-forms/tabs/field-settings/help.php:15
 msgid ""
-"Any character you place in the \"custom mask\" box that is not in the list below will "
-"be automatically entered for the user as they type and will not be removeable"
+"Any character you place in the \"custom mask\" box that is not in the list below will be "
+"automatically entered for the user as they type and will not be removeable"
 msgstr ""
 
 #: includes/admin/pages/ninja-forms/tabs/field-settings/help.php:16
@@ -1485,8 +1488,8 @@ msgstr ""
 #: includes/admin/pages/ninja-forms/tabs/field-settings/help.php:27
 msgid ""
 "For instance, if you had a product key that was in the form of A4B51.989.B.43C, you "
-"could mask it with: a9a99.999.a.99a, which would force all the a's to be letters and "
-"the 9s to be numbers"
+"could mask it with: a9a99.999.a.99a, which would force all the a's to be letters and the "
+"9s to be numbers"
 msgstr ""
 
 #: includes/admin/pages/ninja-forms/tabs/field-settings/sidebars/def-fields.php:6
@@ -1642,8 +1645,8 @@ msgstr ""
 
 #: includes/admin/pages/ninja-forms/tabs/form-settings/form-settings.php:141
 msgid ""
-"Please enter a message that you want displayed when this form has reached its "
-"submission limit and will not accept new submissions."
+"Please enter a message that you want displayed when this form has reached its submission "
+"limit and will not accept new submissions."
 msgstr ""
 
 #: includes/admin/pages/ninja-forms/tabs/form-settings/form-settings.php:167
@@ -1699,9 +1702,9 @@ msgstr ""
 
 #: includes/admin/pages/ninja-forms-addons/tabs/addons/addons.php:52
 msgid ""
-"File Uploads for Ninjas Forms gives you the ability to insert file upload fields to "
-"your forms. This will allow users the ability to upload images, docs, audio or video "
-"files, or anything else you may need. You can easily ..."
+"File Uploads for Ninjas Forms gives you the ability to insert file upload fields to your "
+"forms. This will allow users the ability to upload images, docs, audio or video files, "
+"or anything else you may need. You can easily ..."
 msgstr ""
 
 #: includes/admin/pages/ninja-forms-addons/tabs/addons/addons.php:58
@@ -1744,9 +1747,9 @@ msgstr ""
 
 #: includes/admin/pages/ninja-forms-addons/tabs/addons/addons.php:84
 msgid ""
-"This extension for Ninja Forms allows you to create \"smart\" forms. Fields within "
-"these forms can dynamically change based upon user input; show or hide fields based on "
-"a selected item, set field values based upon a list selection, or ..."
+"This extension for Ninja Forms allows you to create \"smart\" forms. Fields within these "
+"forms can dynamically change based upon user input; show or hide fields based on a "
+"selected item, set field values based upon a list selection, or ..."
 msgstr ""
 
 #: includes/admin/pages/ninja-forms-addons/tabs/addons/addons.php:90
@@ -1776,8 +1779,8 @@ msgstr ""
 
 #: includes/admin/pages/ninja-forms-addons/tabs/addons/addons.php:108
 msgid ""
-"The User Analytics extension will help website owners understand how hot a lead is "
-"based on extra data automatically collected about the user. ..."
+"The User Analytics extension will help website owners understand how hot a lead is based "
+"on extra data automatically collected about the user. ..."
 msgstr ""
 
 #: includes/admin/pages/ninja-forms-addons/tabs/addons/addons.php:114
@@ -1796,8 +1799,8 @@ msgstr ""
 
 #: includes/admin/pages/ninja-forms-addons/tabs/addons/addons.php:124
 msgid ""
-"When email and SMS notifications just do not cut it, send yourself push notifications "
-"of form submissions with Pushover. Pushover makes..."
+"When email and SMS notifications just do not cut it, send yourself push notifications of "
+"form submissions with Pushover. Pushover makes..."
 msgstr ""
 
 #: includes/admin/pages/ninja-forms-addons/tabs/addons/addons.php:130
@@ -1816,8 +1819,8 @@ msgstr ""
 
 #: includes/admin/pages/ninja-forms-addons/tabs/addons/addons.php:140
 msgid ""
-"Use Ninja Forms to quickly create flexible newsletter signup forms for your AWeber "
-"email marketing account."
+"Use Ninja Forms to quickly create flexible newsletter signup forms for your AWeber email "
+"marketing account."
 msgstr ""
 
 #: includes/admin/pages/ninja-forms-addons/tabs/addons/addons.php:146
@@ -1947,8 +1950,7 @@ msgstr ""
 
 #: includes/admin/pages/ninja-forms-addons/tabs/addons/addons.php:261
 msgid ""
-"Control who can see your form based on a password or popular WordPress eCommerce "
-"systems."
+"Control who can see your form based on a password or popular WordPress eCommerce systems."
 msgstr ""
 
 #: includes/admin/pages/ninja-forms-addons/tabs/addons/addons.php:267
@@ -2188,10 +2190,9 @@ msgstr ""
 
 #: includes/admin/pages/ninja-forms-settings/tabs/license-settings/license-settings.php:28
 msgid ""
-"To activate licenses for Ninja Forms extensions you must first <a target=\"_blank\" "
-"href=\"http://ninjaforms.com/documentation/extension-docs/installing-extensions/"
-"\">install and activate</a> the chosen extension. License settings will then appear "
-"below."
+"To activate licenses for Ninja Forms extensions you must first <a target=\"_blank\" href="
+"\"http://ninjaforms.com/documentation/extension-docs/installing-extensions/\">install "
+"and activate</a> the chosen extension. License settings will then appear below."
 msgstr ""
 
 #: includes/admin/pages/ninja-forms-settings/tabs/license-settings/license-settings.php:43
@@ -2318,10 +2319,9 @@ msgid ""
 msgstr ""
 
 #: includes/fields/calc.php:112 includes/fields/checkbox.php:19
-#: includes/fields/desc.php:11 includes/fields/hidden.php:50
-#: includes/fields/number.php:69 includes/fields/number.php:83
-#: includes/fields/textarea.php:11 includes/fields/textbox.php:136
-#: includes/fields/textbox.php:157
+#: includes/fields/desc.php:11 includes/fields/hidden.php:50 includes/fields/number.php:69
+#: includes/fields/number.php:83 includes/fields/textarea.php:11
+#: includes/fields/textbox.php:136 includes/fields/textbox.php:157
 msgid "Default Value"
 msgstr ""
 
@@ -2362,8 +2362,8 @@ msgstr ""
 
 #: includes/fields/calc.php:269
 msgid ""
-"Complex equations can be created by adding parentheses: <strong>( field_45 * "
-"field_2 ) / 2</strong>."
+"Complex equations can be created by adding parentheses: <strong>( field_45 * field_2 ) / "
+"2</strong>."
 msgstr ""
 
 #: includes/fields/calc.php:270
