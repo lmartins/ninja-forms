@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ninja-forms\n"
 "POT-Creation-Date: 2014-11-15 15:03-0500\n"
-"PO-Revision-Date: 2015-01-05 20:44-0000\n"
+"PO-Revision-Date: 2015-01-06 00:12-0000\n"
 "Last-Translator: Luis Martins <luis.martins@multiweb.pt>\n"
 "Language-Team: Luís Martins <kimipt@gmail.com>\n"
 "MIME-Version: 1.0\n"
@@ -352,212 +352,216 @@ msgstr "Data de Fim"
 #: classes/subs-cpt.php:642
 #, php-format
 msgid "%s submission updated."
-msgstr ""
+msgstr "%s submissão actualizada."
 
 #: classes/subs-cpt.php:643
 #, php-format
 msgid "%s submission not updated, somebody is editing it."
-msgstr ""
+msgstr "%s submissão não actualizada, está a ser editada por outro utilizador."
 
 #: classes/subs-cpt.php:644
 #, php-format
 msgid "%s submission permanently deleted."
-msgstr ""
+msgstr "%s submissão eliminada de forma permanente."
 
 #: classes/subs-cpt.php:645
 #, php-format
 msgid "%s submission moved to the Trash."
-msgstr ""
+msgstr "%s submissão movida para o Lixo."
 
 #: classes/subs-cpt.php:646
 #, php-format
 msgid "%s submission restored from the Trash."
-msgstr ""
+msgstr "%s submissão recuperada do Lixo."
 
 #: classes/subs-cpt.php:669
 msgid "updated"
-msgstr ""
+msgstr "actualizado"
 
 #: classes/subs-cpt.php:670
 msgid "Custom field updated."
-msgstr ""
+msgstr "Campo Customizado actualizado."
 
 #: classes/subs-cpt.php:671
 msgid "Custom field deleted."
-msgstr ""
+msgstr "Acmpo Customizado apagado."
 
 #: classes/subs-cpt.php:672
 msgid " updated."
-msgstr ""
+msgstr "actualizado."
 
 #: classes/subs-cpt.php:673
 #, php-format
 msgid " restored to revision from %s"
-msgstr ""
+msgstr "﻿restaurado para revisão de %s"
 
 #: classes/subs-cpt.php:674
 #, php-format
 msgid " published. <a href=\"%s\">View "
-msgstr ""
+msgstr "publicado. <a href=\"%s\">Ver "
 
 #: classes/subs-cpt.php:675
 msgid "Page saved."
-msgstr ""
+msgstr "Página guardada."
 
 #: classes/subs-cpt.php:676
 #, php-format
 msgid " submitted. <a target=\"_blank\" href=\"%s\">Preview "
-msgstr ""
+msgstr "submetido. <a target=\"_blank\" href=\"%s\">Visualizar  "
 
 #: classes/subs-cpt.php:677
 #, php-format
 msgid " scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" href=\"%2$s\">Preview "
 msgstr ""
+"agendado para: <strong>%1$s</strong>. <a target=\"_blank\" href=\"%2$s\">Visualizar"
 
 #: classes/subs-cpt.php:677
 msgid "M j, Y @ G:i"
-msgstr ""
+msgstr "M j, Y @ G:i"
 
 #: classes/subs-cpt.php:678
 #, php-format
 msgid " draft updated. <a target=\"_blank\" href=\"%s\">Preview "
-msgstr ""
+msgstr " rascunho actualizado. <a target=\"_blank\" href=\"%s\">Visualizar  "
 
 #: classes/subs-cpt.php:730
 msgid "Download All Submissions"
-msgstr ""
+msgstr "Descarregar todas as Submissões"
 
 #: classes/subs-cpt.php:828
 msgid "Back to list"
-msgstr ""
+msgstr "Voltar à lista"
 
 #: classes/subs-cpt.php:886
 msgid "User Submitted Values"
-msgstr ""
+msgstr "Dados submetidos pelo Utilizador"
 
 #: classes/subs-cpt.php:888
 msgid "Submission Stats"
-msgstr ""
+msgstr "Estatísticas de Submissão"
 
 #: classes/subs-cpt.php:918
 msgid "Field"
-msgstr ""
+msgstr "Campo"
 
 #: classes/subs-cpt.php:919 includes/fields/list.php:602
 msgid "Value"
-msgstr ""
+msgstr "Valor"
 
 #: classes/subs-cpt.php:1018
 msgid "Status"
-msgstr ""
+msgstr "Estado"
 
 #: classes/subs-cpt.php:1023
 #: includes/admin/pages/ninja-forms/tabs/form-list/form-list.php:115
 msgid "Form"
-msgstr ""
+msgstr "Formulário"
 
 #: classes/subs-cpt.php:1028
 msgid "Submitted on"
-msgstr ""
+msgstr "Submetido em"
 
 #: classes/subs-cpt.php:1034
 msgid "Modified on"
-msgstr ""
+msgstr "Modificado em"
 
 #: classes/subs-cpt.php:1042
 msgid "Submitted By"
-msgstr ""
+msgstr "Submetido por"
 
 #: classes/subs-cpt.php:1056 classes/subs-cpt.php:1057
 msgid "Update"
-msgstr ""
+msgstr "Actualizar"
 
 #: classes/subs.php:184
 msgid "Date Submitted"
-msgstr ""
+msgstr "Data de Submissão"
 
 #: includes/activation.php:224
 msgid ""
 "Ninja Forms cannot be network activated. Please visit each site's dashboard to activate "
 "the plugin."
 msgstr ""
+"Ninja Forms não pode ser activado na Network. Por favor active o plugin individualmente "
+"em cada site."
 
 #: includes/class-extension-updater.php:71
 msgid "License Key"
-msgstr ""
+msgstr "Chave de Licença"
 
 #: includes/class-extension-updater.php:72
 msgid "You will find this included with your purchase email."
 msgstr ""
+"Poderá encontrar esta informação no email que lhe foi enviado no momento da sua compra."
 
 #: includes/deprecated.php:464 includes/deprecated.php:473
 msgid "User Submitted Values:"
-msgstr ""
+msgstr "Dados submetidos pelo Utilizador"
 
 #: includes/deprecated.php:662
 msgid "Thank you for filling out this form."
-msgstr ""
+msgstr "Obrigado pelo preenchimento do formulário."
 
 #: includes/field-type-groups.php:5
 msgid "Standard Fields"
-msgstr ""
+msgstr "Campos Standard"
 
 #: includes/field-type-groups.php:10
 #: includes/admin/pages/ninja-forms/tabs/field-settings/sidebars/layout-fields.php:6
 msgid "Layout Elements"
-msgstr ""
+msgstr "Elementos de Layout"
 
 #: includes/field-type-groups.php:19
 msgid "Post Creation"
-msgstr ""
+msgstr "﻿Criação do post"
 
 #: includes/ninja-settings.php:8
 msgid "Fields marked with a * are required"
-msgstr ""
+msgstr "Campos marcados com * são obrigatórios"
 
 #: includes/ninja-settings.php:10
 msgid "Please ensure all required fields are completed."
-msgstr ""
+msgstr "﻿Por favor, certifique-se de todos os campos obrigatórios estão preenchidos."
 
 #: includes/ninja-settings.php:11
 msgid "This is a required field"
-msgstr ""
+msgstr "﻿Este é um campo obrigatório"
 
 #: includes/ninja-settings.php:12
 msgid "Please answer the anti-spam question correctly."
-msgstr ""
+msgstr "﻿Por favor responda correctamente à pergunta de anti-spam."
 
 #: includes/ninja-settings.php:13
 msgid "Please leave the spam field blank."
-msgstr ""
+msgstr "﻿Por favor, deixe o campo de spam em branco."
 
 #: includes/ninja-settings.php:14
 msgid "Please wait to submit the form."
-msgstr ""
+msgstr "﻿Por favor, aguarde para enviar o formulário."
 
 #: includes/ninja-settings.php:15
 msgid "You cannot submit the form without Javascript enabled."
-msgstr ""
+msgstr "Não é possível enviar o formulário sem Javascript habilitado."
 
 #: includes/ninja-settings.php:16 includes/fields/textbox.php:281
 msgid "Please enter a valid email address."
-msgstr ""
+msgstr "﻿Por favor introduze um endereço de e-mail válido."
 
 #: includes/ninja-settings.php:17 includes/admin/step-processing.php:11
 msgid "Processing"
-msgstr ""
+msgstr "Em Processamento"
 
 #: includes/ninja-settings.php:18
 msgid "The passwords provided do not match."
-msgstr ""
+msgstr "﻿As palavras-passe não coincidem."
 
 #: includes/widget.php:14 includes/admin/welcome.php:352
 msgid "Ninja Forms Widget"
-msgstr ""
+msgstr "Ninja Forms Widget"
 
 #: includes/widget.php:89
 msgid "Display Title"
-msgstr ""
+msgstr "Título de exibição"
 
 #: includes/widget.php:96 includes/admin/post-metabox.php:39
 #: includes/admin/edit-field/desc.php:41
@@ -565,108 +569,108 @@ msgstr ""
 #: includes/fields/number.php:72 includes/fields/textbox.php:139
 #: includes/fields/textbox.php:180
 msgid "None"
-msgstr ""
+msgstr "Nenhum"
 
 #: includes/admin/admin.php:4 includes/admin/admin.php:5
 #: includes/admin/pages/ninja-forms/tabs/form-list/form-list.php:115
 #: includes/admin/pages/ninja-forms-impexp/tabs/impexp-forms/impexp-forms.php:6
 msgid "Forms"
-msgstr ""
+msgstr "Formulários"
 
 #: includes/admin/admin.php:5
 #: includes/admin/pages/ninja-forms/tabs/form-list/form-list.php:28
 msgid "All Forms"
-msgstr ""
+msgstr "Todos os Formulários"
 
 #: includes/admin/admin.php:8
 msgid "Ninja Forms Upgrades"
-msgstr ""
+msgstr "Actualizações do Ninja Forms"
 
 #: includes/admin/admin.php:8
 msgid "Upgrades"
-msgstr ""
+msgstr "Actualizações"
 
 #: includes/admin/admin.php:29
 msgid "Import/Export"
-msgstr ""
+msgstr "﻿Importar/Exportar"
 
 #: includes/admin/admin.php:29
 msgid "Import / Export"
-msgstr ""
+msgstr "Importar / Exportar"
 
 #: includes/admin/admin.php:30
 msgid "Ninja Form Settings"
-msgstr ""
+msgstr "Definições do Ninja Forms"
 
 #: includes/admin/admin.php:30
 msgid "Settings"
-msgstr ""
+msgstr "﻿Configurações"
 
 #: includes/admin/admin.php:31
 msgid "System Status"
-msgstr ""
+msgstr "Estado do Sistema"
 
 #: includes/admin/admin.php:32
 msgid "Ninja Form Extensions"
-msgstr ""
+msgstr "Extensões Ninja Forms"
 
 #: includes/admin/admin.php:32
 msgid "Extend"
-msgstr ""
+msgstr "Estender"
 
 #: includes/admin/admin.php:162
 msgid "Save"
-msgstr ""
+msgstr "Guardar"
 
 #: includes/admin/ajax.php:62
 msgid "character(s) left"
-msgstr ""
+msgstr "caracteres disponíveis"
 
 #: includes/admin/ajax.php:544
 msgid "Do not show these terms"
-msgstr ""
+msgstr "Não mostrar estes termos"
 
 #: includes/admin/display-screen-options.php:87
 msgid "Save Options"
-msgstr ""
+msgstr "Guardar Opções"
 
 #: includes/admin/form-preview.php:48
 msgid "Preview Form"
-msgstr ""
+msgstr "Visualizar Formulário"
 
 #: includes/admin/output-tab-metabox.php:48 includes/admin/sidebar.php:57
 #: includes/admin/edit-field/li.php:109
 msgid "Edit Menu Item"
-msgstr ""
+msgstr "Editar Item de Menu"
 
 #: includes/admin/output-tab-metabox.php:286
 msgid "Select All"
-msgstr ""
+msgstr "﻿Selecionar tudo"
 
 #: includes/admin/post-metabox.php:12 includes/admin/post-metabox.php:20
 msgid "Append A Ninja Form"
-msgstr ""
+msgstr "Acrescentar Formulário"
 
 #: includes/admin/sidebar.php:155
 #: includes/admin/pages/ninja-forms/tabs/form-list/form-list.php:188
 msgid "View Submissions"
-msgstr ""
+msgstr "Ver Submissões"
 
 #: includes/admin/step-processing.php:11
 msgid "Ninja Forms Processing"
-msgstr ""
+msgstr "Ninja Form em Processamento"
 
 #: includes/admin/step-processing.php:80
 msgid "Loading..."
-msgstr ""
+msgstr "A Carregar..."
 
 #: includes/admin/step-processing.php:85
 msgid "No Action Specified..."
-msgstr ""
+msgstr "﻿Nenhuma ação especificada..."
 
 #: includes/admin/step-processing.php:108 includes/admin/upgrades/upgrades.php:34
 msgid "Ninja Forms - Processing"
-msgstr ""
+msgstr "﻿Ninja Form em Processamento"
 
 #: includes/admin/step-processing.php:110 includes/admin/upgrades/upgrades.php:39
 #: includes/admin/upgrades/upgrades.php:53
