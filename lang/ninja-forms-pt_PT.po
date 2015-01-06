@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ninja-forms\n"
 "POT-Creation-Date: 2014-11-15 15:03-0500\n"
-"PO-Revision-Date: 2015-01-06 00:12-0000\n"
+"PO-Revision-Date: 2015-01-06 19:26-0000\n"
 "Last-Translator: Luis Martins <luis.martins@multiweb.pt>\n"
 "Language-Team: Luís Martins <kimipt@gmail.com>\n"
 "MIME-Version: 1.0\n"
@@ -678,11 +678,13 @@ msgid ""
 "The process has started, please be patient. This could take several minutes. You will "
 "be automatically redirected when the process is finished."
 msgstr ""
+"﻿O processo foi iniciado e poderá demorar alguns minutos, por favor aguarde. Será "
+"automaticamente redirecionado assim que o processo for concluído."
 
 #: includes/admin/welcome.php:42 includes/admin/welcome.php:400
 #, php-format
 msgid "Welcome to Ninja Forms %s"
-msgstr ""
+msgstr "Bem-vindo ao Ninja Forms %s"
 
 #: includes/admin/welcome.php:43
 #, php-format
@@ -690,95 +692,106 @@ msgid ""
 "Thank you for updating to the latest version! Ninja Forms %s brings you unprecedented "
 "control over your notifications in a form creation plugin!"
 msgstr ""
+"﻿Obrigado por atualizar para a versão mais recente! Ninja Forms %s proporciona-lhe "
+"controlo sem precedentes sobre suas notificações num plugin de criação de formulários!"
 
 #: includes/admin/welcome.php:57 includes/admin/welcome.php:58
 msgid "Welcome to Ninja Forms"
-msgstr ""
+msgstr "Bem-vindo ao Ninja Forms"
 
 #: includes/admin/welcome.php:66 includes/admin/welcome.php:67
 msgid "Ninja Forms Changelog"
-msgstr ""
+msgstr "Lista de Alterações do Ninja Forms"
 
 #: includes/admin/welcome.php:75 includes/admin/welcome.php:76
 msgid "Getting started with Ninja Forms"
-msgstr ""
+msgstr "Primeiros passos com o Ninja Forms"
 
 #: includes/admin/welcome.php:84 includes/admin/welcome.php:85
 msgid "The people who build Ninja Forms"
-msgstr ""
+msgstr "Quem está por trás do Ninja Forms"
 
 #: includes/admin/welcome.php:154
 msgid "What's New"
-msgstr ""
+msgstr "﻿O que há de novo"
 
 #: includes/admin/welcome.php:157
 msgid "Getting Started"
-msgstr ""
+msgstr "﻿Guia de Introdução"
 
 #: includes/admin/welcome.php:160
 msgid "Credits"
-msgstr ""
+msgstr "﻿Créditos"
 
 #: includes/admin/welcome.php:178 includes/admin/welcome.php:272
 #: includes/admin/welcome.php:304 includes/admin/welcome.php:402
 #, php-format
 msgid "Version %s"
-msgstr ""
+msgstr "﻿Versão %s"
 
 #: includes/admin/welcome.php:187
 msgid "A more powerful and flexible notification system"
-msgstr ""
+msgstr "Um sistema de notificações mais poderoso e flexível"
 
 #: includes/admin/welcome.php:193
 msgid "Unlimited notifications"
-msgstr ""
+msgstr "Notificações Ilimitadas"
 
 #: includes/admin/welcome.php:194
 msgid ""
 "Create as many notifications (Email, Success Message, Redirect) as you like for each of "
 "your Ninja Forms."
 msgstr ""
+"Crie tantas notificações (Email, Mensagem de Confirmação e Redireccionamentos) quanto "
+"desejar para cada um dos seus formulários Ninja Forms."
 
 #: includes/admin/welcome.php:199
 msgid "Easy notification creation"
-msgstr ""
+msgstr "﻿Criação fácil de notificação"
 
 #: includes/admin/welcome.php:200
 msgid ""
 "All relevant notification settings on one page. Easily fill these settings with "
 "submitted data."
 msgstr ""
+"﻿Todas as configurações de notificação relevantes numa página única. Preencha facilmente "
+"estas configurações com os dados submetidos."
 
 #: includes/admin/welcome.php:211
 msgid "Activate or deactivate notifications"
-msgstr ""
+msgstr "﻿Ativar ou desativar as notificações"
 
 #: includes/admin/welcome.php:212
 msgid "Easily activate or deactivate notifications, depending on your current needs."
 msgstr ""
+"Active ou desactive facilmente notificações, dependendo das suas necessidades actuais."
 
 #: includes/admin/welcome.php:217
 msgid "Filter notifications by type"
-msgstr ""
+msgstr "Filtrar notificações por tipo"
 
 #: includes/admin/welcome.php:218
 msgid ""
 "Easily filter long lists of notifications by a specified type to find just the one "
 "you're looking for."
 msgstr ""
+"Filtra longas listas de notificações por tipo especificado para encontrar exactamente a "
+"informação que procura."
 
 #: includes/admin/welcome.php:223
 msgid "Duplicate notifications"
-msgstr ""
+msgstr "Duplicar notificações"
 
 #: includes/admin/welcome.php:224
 msgid ""
 "Duplicate notifications and change settings to quickly create similar notifications."
 msgstr ""
+"Duplicar notificações e alterar as definições para criar notificações similares de "
+"forma rápida."
 
 #: includes/admin/welcome.php:234
 msgid "More to come"
-msgstr ""
+msgstr "Mais em breve"
 
 #: includes/admin/welcome.php:235
 msgid ""
@@ -787,55 +800,64 @@ msgid ""
 "across multiple forms. Also be on the look out for Ninja Forms extesions to make "
 "notifications even more powerful."
 msgstr ""
+"﻿Esta atualização é apenas o começo; o futuro irá trazer ainda mais melhorias para o "
+"sistema de notificações. Temos planos para adicionar notificações \"globais\"  que "
+"podem ser usadas em múltiplos formulários. Estamos também a procurar formas de tornar "
+"as notificações ainda mais poderosas através de extensões Ninja Forms."
 
 #: includes/admin/welcome.php:239
 msgid "Notification documentation"
-msgstr ""
+msgstr "Documentação da Notificação"
 
 #: includes/admin/welcome.php:240
 msgid ""
 "To get you started, we've already added documentation on the new notifications feature. "
 "If you still have questions you can always contact the Ninja Forms support team."
 msgstr ""
+"Para se iniciar, já adicionamos documentação sobre as novas funcionalidades de "
+"notificação. Se ainda tiver questões, poderá sempre contactar a equipa de suporte Ninja "
+"Forms."
 
 #: includes/admin/welcome.php:242
 msgid "Notification Documentation"
-msgstr ""
+msgstr "Documentação da Notificação"
 
 #: includes/admin/welcome.php:243
 msgid "Get Support"
-msgstr ""
+msgstr "Obter Ajuda"
 
 #: includes/admin/welcome.php:252
 msgid "Return to Ninja Forms"
-msgstr ""
+msgstr "Voltar ao Ninja Forms"
 
 #: includes/admin/welcome.php:253
 msgid "View the Full Changelog"
-msgstr ""
+msgstr "Ver a lista de alterações"
 
 #: includes/admin/welcome.php:277
 msgid "Full Changelog"
-msgstr ""
+msgstr "Lista de alterações completa"
 
 #: includes/admin/welcome.php:285
 msgid "Go to Ninja Forms"
-msgstr ""
+msgstr "Ir para Ninja Forms"
 
 #: includes/admin/welcome.php:308
 msgid ""
 "Use the tips below to get started using Ninja Forms. You will be up and running in no "
 "time!"
 msgstr ""
+"Utilize as dicas abaixo para se iniciar com o Ninja Forms. Estará a trabalhar em pleno "
+"em breves momentos!"
 
 #: includes/admin/welcome.php:311
 msgid "Creating Your First Form"
-msgstr ""
+msgstr "Criar o seu primeiro Formulário"
 
 #: includes/admin/welcome.php:317
 #, php-format
 msgid "<a href=\"%s\">Forms &rarr; Add New</a>"
-msgstr ""
+msgstr "<a href=\"%s\">Formulários &rarr; Adicionar Novo</a>"
 
 #: includes/admin/welcome.php:318
 msgid ""
@@ -843,22 +865,29 @@ msgid ""
 "setup. We've already created your first form for you so you can use that as an example "
 "or create your own, simply click Add New and start with your Forms Settings."
 msgstr ""
+"O menu de Formulários é o seu acesso central a todos os aspectos relacionados com a "
+"configuração Ninja Forms. Já criamos o seu primeiro formulário para que o possa "
+"utilizar como exemplo ou criar o seu próprio. Clique em Adicionar Novo e comece a criar "
+"um novo formulário."
 
 #: includes/admin/welcome.php:320
 #: includes/admin/pages/ninja-forms/tabs/form-settings/form-settings.php:7
 msgid "Form Settings"
-msgstr ""
+msgstr "Configurações do Formulários"
 
 #: includes/admin/welcome.php:321
 msgid ""
 "The Form Settings tab is where you will configure all the options that pertain to the "
 "specific form you are editing. Everything about how your form behaves is handled here."
 msgstr ""
+"O tabulador de Configurações do Formulário é onde poderá configurar todos os aspectos "
+"relacionados com o formulário que está a editar. Tudo sobre o comportamento do seu "
+"formulário é definido aqui."
 
 #: includes/admin/welcome.php:323
 #: includes/admin/pages/ninja-forms/tabs/field-settings/field-settings.php:11
 msgid "Field Settings"
-msgstr ""
+msgstr "Definições do Campo"
 
 #: includes/admin/welcome.php:324
 msgid ""
@@ -867,14 +896,18 @@ msgid ""
 "Each field will have an assortment of avaialble options that are either general for all "
 "fields or specific to that field type."
 msgstr ""
+"Nas Configurações dos Campo é o local onde irá de facto construir o formulário, ao "
+"adicionar campos e posicioná-los do modo como pretende que sejam apresentados, dispondo-"
+"os utilizando as funcionalidades de drag-and-drop. Cada campo possui um conjunto de "
+"opções gerais ou específicas desse tipo de campo."
 
 #: includes/admin/welcome.php:333
 msgid "Displaying Your Form"
-msgstr ""
+msgstr "Apresentação do seu Formulário"
 
 #: includes/admin/welcome.php:338
 msgid "Append to Page"
-msgstr ""
+msgstr "Acrescentar a Página"
 
 #: includes/admin/welcome.php:339
 msgid ""
@@ -882,30 +915,38 @@ msgid ""
 "would like the form automatically appended to the end of that page's content. A "
 "similiar option is avaiable in every content edit screen in it's sidebar."
 msgstr ""
+"Abaixo de Comportamento Básico de Formulário nas Definições de Formulário, poderá "
+"escolher uma página para adicionar o formulário automaticamente. Opção similar estará "
+"disponível na edição de todas as páginas do seu site."
 
 #: includes/admin/welcome.php:343
 #: includes/admin/pages/ninja-forms/tabs/form-list/form-list.php:154
 #: includes/admin/pages/ninja-forms/tabs/form-list/form-list.php:214
 msgid "Shortcode"
-msgstr ""
+msgstr "Shortcode"
 
 #: includes/admin/welcome.php:344
 msgid ""
 "Place [ninja_forms_display_form id=1] in any area that accepts shortcodes to display "
 "your form anywhere you like. Even in the middle of your page or posts content."
 msgstr ""
+"Adicione [ninja_forms_display_form id=1] em qualquer área que aceite shortcodes para "
+"apresentar este formulário em qualquer lugar, mesmo no meio do conteúdo das suas "
+"páginas ou posts."
 
 #: includes/admin/welcome.php:353
 msgid ""
 "Ninja Forms provides a widget that you can place in any widgetized area of your site "
 "and select exactly which form you would like displayed in tat space."
 msgstr ""
+"O Ninja Forms inclui um widget que poderá adicionar a qualquer área de widgets para "
+"maior flexibilidade na utilização dos seus formulários."
 
 #: includes/admin/welcome.php:357
 #: includes/admin/pages/ninja-forms/tabs/form-list/form-list.php:155
 #: includes/admin/pages/ninja-forms/tabs/form-list/form-list.php:215
 msgid "Template Function"
-msgstr ""
+msgstr "Função de Template"
 
 #: includes/admin/welcome.php:358
 msgid ""
@@ -913,14 +954,17 @@ msgid ""
 "a php template file. <code>if( function_exists( 'ninja_forms_display_form' ) )"
 "{ ninja_forms_display_form( 1 ); }</code>"
 msgstr ""
+"O Ninja Forms também inclui uma função de template que poderá adicionar directamente ao "
+"um template php.  <code>if( function_exists( 'ninja_forms_display_form' ) )"
+"{ ninja_forms_display_form( 1 ); }</code>"
 
 #: includes/admin/welcome.php:368
 msgid "Need Help?"
-msgstr ""
+msgstr "Precisa de Ajuda?"
 
 #: includes/admin/welcome.php:373
 msgid "Growing Documentation"
-msgstr ""
+msgstr "Documentação Crescente"
 
 #: includes/admin/welcome.php:374
 #, php-format
@@ -929,10 +973,13 @@ msgid ""
 "\">Troubleshooting</a> to our <a href=\"%s\">Devloper API</a>. New Documents be added "
 "every day."
 msgstr ""
+"Temos todos os tipos de documentação disponíveis, cobrindo tudo desde <a href=\"%s"
+"\">Resolução de Problemas</a> até à<a href=\"%s\">API para Programadores</a>. Novos "
+"documentos são adicionados diariamente."
 
 #: includes/admin/welcome.php:378
 msgid "Best Support in the Business"
-msgstr ""
+msgstr "Melhor suporte nesta actividade"
 
 #: includes/admin/welcome.php:379
 #, php-format
@@ -940,6 +987,9 @@ msgid ""
 "We do our very best to provide every Ninja Forms user with the best support possible. "
 "If you encounter a problem or have a question, <a href=\"%s\">please contact us</a>."
 msgstr ""
+"Damos o nosso melhor para oferecer a todos os utilizadores Ninja Forms o melhor suporte "
+"possível. Se encontrar um problema ou tiver qualquer questão, <a href=\"%s\">não hesite "
+"em contactar</a>."
 
 #: includes/admin/welcome.php:401
 #, php-format
@@ -947,65 +997,69 @@ msgid ""
 "Thank you for updating to the latest version! Ninja Forms %s is primed to make your "
 "experience managing submissions an enjoyable one!"
 msgstr ""
+"﻿Obrigado por actualizar para a versão mais recente! Ninja Forms %s está disponível para "
+"tornar a sua experiência na gestão de formulários uma experiência agradável!"
 
 #: includes/admin/welcome.php:406
 msgid ""
 "Ninja Forms is created by a worldwide team of developers who aim to provide the #1 "
 "WordPress community form creation plugin."
 msgstr ""
+"O Ninja Forms é desenvolvido por uma equipa mundial de programadores que buscam "
+"proporcionar-lhe a melhor solução de gestão de formulários para Wordpress."
 
 #: includes/admin/welcome.php:424
 msgid "No valid changlog was found."
-msgstr ""
+msgstr "Não foi encontrada uma lista de alterações válida."
 
 #: includes/admin/welcome.php:461
 #, php-format
 msgid "View %s"
-msgstr ""
+msgstr "Visualizar %s"
 
 #: includes/admin/edit-field/calc.php:38
 msgid "Calculation Settings"
-msgstr ""
+msgstr "﻿Configurações de cálculo"
 
 #: includes/admin/edit-field/calc.php:46
 msgid "<strong>Checked</strong> Calculation Value"
-msgstr ""
+msgstr "﻿<strong>Verificado</strong> Valor de cálculo"
 
 #: includes/admin/edit-field/calc.php:46
 msgid "This is the value that will be used if <strong>Checked</strong>."
-msgstr ""
+msgstr "﻿Este é o valor que será usado se <strong>Verificado</strong>."
 
 #: includes/admin/edit-field/calc.php:47
 msgid "<strong>Unchecked</strong> Calculation Value"
-msgstr ""
+msgstr "Valor de cálculo se ﻿<strong>Não verificado</strong>"
 
 #: includes/admin/edit-field/calc.php:47
 msgid "This is the value that will be used if <strong>Unchecked</strong>."
-msgstr ""
+msgstr "﻿Este é o valor que será usado se <strong>Não verificado</strong>."
 
 #: includes/admin/edit-field/calc.php:50
 msgid "Include in the auto-total? (If enabled)"
-msgstr ""
+msgstr "﻿Incluem-se no total automático? (Se habilitado)"
 
 #: includes/admin/edit-field/custom-class.php:21
 msgid "Custom CSS Classes"
-msgstr ""
+msgstr "Classes CSS customizadas"
 
 #: includes/admin/edit-field/desc.php:42
 msgid "Before Everything"
-msgstr ""
+msgstr "Antes de Tudo"
 
 #: includes/admin/edit-field/desc.php:44
 msgid "Before Label"
-msgstr ""
+msgstr "Antes da Etiqueta"
 
 #: includes/admin/edit-field/desc.php:45
 msgid "After Label"
-msgstr ""
+msgstr "Depois da Etiqueta"
 
 #: includes/admin/edit-field/desc.php:47
 msgid "After Everything"
-msgstr ""
+msgstr "Depois de Tudo"
 
 #: includes/admin/edit-field/desc.php:53
 #, php-format
@@ -1013,18 +1067,21 @@ msgid ""
 "If \"desc text\" is enabled, there will be a question mark %s placed next to the input "
 "field. Hovering over this question mark will show the desc text."
 msgstr ""
+"Se \"desc text\" estiver activo, irá ser mostrado um ponto de interrogação %s após o "
+"campo de formulário. Ao passar com o rato por esse símbolo será mostrado ao utilizador "
+"um texto descritivo."
 
 #: includes/admin/edit-field/desc.php:54
 msgid "Add Description"
-msgstr ""
+msgstr "Adicionar Descrição"
 
 #: includes/admin/edit-field/desc.php:63
 msgid "Description Position"
-msgstr ""
+msgstr "﻿Posição da Descrição"
 
 #: includes/admin/edit-field/desc.php:64
 msgid "Description Content"
-msgstr ""
+msgstr "Conteúdo da Descrição"
 
 #: includes/admin/edit-field/help.php:33 includes/fields/calc.php:221
 #, php-format
@@ -1032,127 +1089,132 @@ msgid ""
 "If \"help text\" is enabled, there will be a question mark %s placed next to the input "
 "field. Hovering over this question mark will show the help text."
 msgstr ""
+"Se \"help text\" estiver activo, será mostrado um ponto de interrogação %s após o campo "
+"de formulário. Hovering over this question mark will show the help text.  Ao passar com "
+"o rato por esse símbolo será mostrado ao utilizador o texto de ajuda."
 
 #: includes/admin/edit-field/help.php:34 includes/fields/calc.php:222
 msgid "Show Help Text"
-msgstr ""
+msgstr "Mostrar texto de ajuda"
 
 #: includes/admin/edit-field/help.php:38 includes/display/fields/help.php:26
 #: includes/fields/calc.php:226
 msgid "Help Text"
-msgstr ""
+msgstr "Texto de Ajuda"
 
 #: includes/admin/edit-field/input-limit.php:40
 msgid ""
 "If you want to limit the number of characters or words that your user can input, set "
 "the number and type of limit you want to enforce below."
 msgstr ""
+"Se quiser limitar o número de caracteres ou palavras que o utilizador poderá "
+"introduzir, defina esse número e tipo de limite que deseja adicionar abaixo."
 
 #: includes/admin/edit-field/input-limit.php:42
 msgid "If you leave the box empty, no limit will be used"
-msgstr ""
+msgstr "Se deixar a caixa em branco não será imposto nenhum limite"
 
 #: includes/admin/edit-field/input-limit.php:44
 msgid "Limit input to this number"
-msgstr ""
+msgstr "Limitar introdução para este número"
 
 #: includes/admin/edit-field/input-limit.php:45
 #: includes/admin/pages/ninja-forms/tabs/form-list/form-list.php:115
 #: includes/admin/pages/ninja-forms/tabs/form-list/form-list.php:140
 msgid "of"
-msgstr ""
+msgstr "de"
 
 #: includes/admin/edit-field/input-limit.php:45
 msgid "Characters"
-msgstr ""
+msgstr "Caracteres"
 
 #: includes/admin/edit-field/input-limit.php:45
 msgid "Words"
-msgstr ""
+msgstr "Palavras"
 
 #: includes/admin/edit-field/input-limit.php:46
 msgid "Text to appear after character/word counter"
-msgstr ""
+msgstr "Texto a mostrar após o contador de caracteres/palavras"
 
 #: includes/admin/edit-field/label.php:41 includes/fields/calc.php:153
 #: includes/fields/checkbox.php:29
 msgid "Left of Element"
-msgstr ""
+msgstr "À esquerda do elemento"
 
 #: includes/admin/edit-field/label.php:42 includes/fields/calc.php:154
 #: includes/fields/checkbox.php:30
 msgid "Above Element"
-msgstr ""
+msgstr "Acima do elemento"
 
 #: includes/admin/edit-field/label.php:43 includes/fields/calc.php:155
 #: includes/fields/checkbox.php:31
 msgid "Below Element"
-msgstr ""
+msgstr "Abaixo do elemento"
 
 #: includes/admin/edit-field/label.php:44 includes/fields/calc.php:156
 #: includes/fields/checkbox.php:32
 msgid "Right of Element"
-msgstr ""
+msgstr "À direita do elemento"
 
 #: includes/admin/edit-field/label.php:45
 msgid "Inside Element"
-msgstr ""
+msgstr "Dentro do Elemento"
 
 #: includes/admin/edit-field/label.php:58 includes/fields/calc.php:158
 msgid "Label Position"
-msgstr ""
+msgstr "Posição da Legenda"
 
 #: includes/admin/edit-field/li.php:123
 msgid "Field ID"
-msgstr ""
+msgstr "ID do Campo"
 
 #: includes/admin/edit-field/list-terms.php:46
 msgid "Populate this with the taxonomy"
-msgstr ""
+msgstr "﻿Preencher com a taxonomia"
 
 #: includes/admin/edit-field/list-terms.php:49
 #: includes/admin/pages/ninja-forms/tabs/form-settings/form-settings.php:58
 #: includes/admin/pages/ninja-forms/tabs/form-settings/form-settings.php:59
 #: includes/fields/calc.php:118
 msgid "- None"
-msgstr ""
+msgstr "- Nenhum"
 
 #: includes/admin/edit-field/remove-button.php:6
 msgid "Remove"
-msgstr ""
+msgstr "Remover"
 
 #: includes/admin/edit-field/req.php:22 includes/admin/pages/system-status-html.php:34
 #: includes/admin/pages/system-status-html.php:73
 #: includes/admin/pages/system-status-html.php:102
 msgid "No"
-msgstr ""
+msgstr "Não"
 
 #: includes/admin/edit-field/req.php:23 includes/admin/pages/system-status-html.php:34
 #: includes/admin/pages/system-status-html.php:73
 #: includes/admin/pages/system-status-html.php:102
 msgid "Yes"
-msgstr ""
+msgstr "Sim"
 
 #: includes/admin/edit-field/req.php:25
 msgid "Required"
-msgstr ""
+msgstr "﻿Obrigatório"
 
 #: includes/admin/edit-field/save-button.php:5
 #: includes/admin/pages/ninja-forms/tabs/field-settings/edit-field-ul.php:7
 msgid "Save Field Settings"
-msgstr ""
+msgstr "Guardar Configurações do Campo"
 
 #: includes/admin/edit-field/sub-settings.php:31
 msgid "Submission Settings"
-msgstr ""
+msgstr "Configurações de Submissão"
 
 #: includes/admin/edit-field/sub-settings.php:33
 msgid "Admin Label"
-msgstr ""
+msgstr "Legenda de Administração"
 
 #: includes/admin/edit-field/sub-settings.php:33
 msgid "This is the label used when viewing/editing/exporting submissions."
-msgstr ""
+msgstr "Esta é a legenda usada ao visualizar/editar/exportar submissões."
 
 #: includes/admin/edit-field/sub-settings.php:34
 msgid "Sort as numeric"
@@ -3332,27 +3394,27 @@ msgstr ""
 
 #: includes/fields/country.php:260
 msgid "Country"
-msgstr ""
+msgstr "País"
 
 #: includes/fields/country.php:270
 msgid "Default Country"
-msgstr ""
+msgstr "País por defeito"
 
 #: includes/fields/country.php:277
 msgid "Use a custom first option"
-msgstr ""
+msgstr "Utilize uma opção inicial personalizada"
 
 #: includes/fields/country.php:283
 msgid "Custom first option"
-msgstr ""
+msgstr "Opção Inicial personalizada"
 
 #: includes/fields/credit-card.php:14
 msgid "Credit Card"
-msgstr ""
+msgstr "Cartão de Crédito"
 
 #: includes/fields/credit-card.php:35
 msgid "Card Number Label"
-msgstr ""
+msgstr "Legenda do número de cartão"
 
 #: includes/fields/credit-card.php:36 includes/fields/credit-card.php:145
 msgid "Card Number"
